@@ -1,0 +1,12 @@
+body#index .container {
+	max-width: 100%;
+	width: 100%;
+}
+body#index .shop-by-cat-desk {
+	display: block;
+	width: 1270px;
+	margin: 0 auto;
+}
+body#index .wt-block-testimonial .container {
+	width: 1300px;
+}

@@ -1,0 +1,248 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+.container {
+    width: 1170px;
+  margin:auto;
+}
+
+.form-register .form {
+  background: #2a3943;
+  padding: 40px;
+  width: 40%;
+margin: 40px 30%;
+
+border-radius: 4px;
+
+box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+
+display: inline-block;
+}
+
+.form-register .tab-group {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+.form-register .tab-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.form-register .tab-group li a {
+  display: block;
+  text-decoration: none;
+  padding: 15px;
+  color: #a0b3b0;
+  font-size: 16px;
+  float: left;
+  width: 50%;
+  text-align: center;
+  cursor: pointer;
+  transition: .5s ease;
+  border-bottom:2px solid #48585e;
+  text-transform: uppercase;
+font-weight: bold;
+}
+.form-register .tab-group li a:hover {
+  border-bottom:2px solid #00ACEE;
+  color: #ffffff;
+}
+.form-register .tab-group .active a {
+  border-bottom:2px solid #00ACEE;
+  color: #ffffff;
+}
+
+.form-register .tab-content > div:last-child {
+  display: none;
+}
+
+
+
+.form-register label {
+  position: absolute;
+  -webkit-transform: translateY(6px);
+          transform: translateY(6px);
+  left: 22px;
+  color: rgba(255, 255, 255, 0.5);
+  transition: all 0.25s ease;
+  -webkit-backface-visibility: hidden;
+  pointer-events: none;
+  font-size: 18px;
+font-weight: 500;
+}
+.form-register label .req {
+  margin: 2px;
+  color: #00ACEE;
+}
+
+.form-register label.active {
+  -webkit-transform: translateY(50px);
+          transform: translateY(50px);
+  left: 2px;
+  font-size: 14px;
+}
+.form-register label.active .req {
+  opacity: 0;
+}
+
+.form-register label.highlight {
+  color: #ffffff;
+}
+
+.form-register input, textarea {
+  font-size: 22px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 5px 23px;
+  background: none;
+  background-image: none;
+  border:none;
+  border-bottom: 1px solid #a0b3b0;
+  color: #ffffff;
+  border-radius: 0;
+  transition: border-color .25s ease, box-shadow .25s ease;
+}
+.form-register input:focus, textarea:focus {
+  outline: 0;
+  border-color: #00ACEE;
+}
+
+.form-register textarea {
+  border: 2px solid #a0b3b0;
+  resize: vertical;
+}
+
+.form-register .field-wrap {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.form-register .top-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.form-register .top-row > div {
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+}
+.form-register .top-row > div:last-child {
+  margin: 0;
+}
+
+.form-register .button {
+  border: 0;
+  outline: none;
+  border-radius: 0;
+  padding: 13px 0;
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  background: #00ACEE;
+  color: #ffffff;
+  transition: all 0.5s ease;
+  -webkit-appearance: none;
+  font-size:16px;
+  border-radius: 50px;
+}
+.form-register .button:hover, .button:focus {
+  background: #179b77;
+}
+
+.form-register .button-block {
+  display: block;
+  width: 100%;
+}
+
+.form-register .forgot {
+  margin-top: -20px;
+  text-align: right;
+  color:#fff;
+  text-decoration:none;
+}
+.form-register .forgot a{
+    color:#fff;
+  text-decoration:none;
+}
+.form-register .username-bx{
+  background:url(../images/user.png) top 8px left no-repeat;
+}
+.form-register .password-bx{
+  background:url(../images/paswod.png) top 8px left no-repeat;
+}
+.form-register .address-bx{
+  background:url(../images/email.png) top 8px left no-repeat;
+}
+.label-or{
+  
+text-align: center;
+width: 100%;
+float: left;
+position: unset !important;
+}
+
+.label-or p {
+  position: relative;
+  text-align: center;
+}
+
+.label-or p span {
+  background:#2a3943;
+  padding: 0 15px;
+  position: relative;
+  z-index: 1;
+  color:#fff;
+  text-transform:uppercase;
+}
+
+.label-or p:before {
+  background: #ddd;
+  content: "";
+  display: block;
+  height: 1px;
+  position: absolute;
+    top: 50%;
+  width: 100%;
+}
+.label-or p:before {
+  left: 0;
+}
+.form-icon{
+  width:100%;
+  text-align:center;
+  float:left;
+  margin-top:20px;
+}
+.form-icon ul {
+  float:none;
+  display:inline-block;
+  margin:0px;
+  padding:0px;
+  
+}
+.form-icon ul li{
+  float:left;
+  list-style: none;
+
+margin: 0px 10px;
+}
+
+
+
+
+@media(max-width:821px){
+.form-register .form {
+    padding: 20px;
+    width: 100%;
+    margin: 0px 0%;
+    display: inline-block;
+}
+.page-wrapper {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+}

@@ -1,0 +1,1114 @@
+[06-Apr-2018 09:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpjlqx.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpjlqx.php on line 16
+[06-Apr-2018 09:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpqmhn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpqmhn.php on line 16
+[06-Apr-2018 09:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpv7oq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpv7oq.php on line 16
+[06-Apr-2018 09:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpm436.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpm436.php on line 16
+[07-Apr-2018 09:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpyev0.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpyev0.php on line 16
+[07-Apr-2018 09:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpkicz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpkicz.php on line 16
+[07-Apr-2018 09:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp8sud.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp8sud.php on line 16
+[07-Apr-2018 09:35:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmvyp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmvyp.php on line 16
+[07-Apr-2018 21:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpinar.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpinar.php on line 16
+[07-Apr-2018 21:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphl3h.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphl3h.php on line 16
+[07-Apr-2018 21:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzue6.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzue6.php on line 16
+[07-Apr-2018 21:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpto3q.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpto3q.php on line 16
+[08-Apr-2018 09:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpxnu9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpxnu9.php on line 16
+[08-Apr-2018 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphgby.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphgby.php on line 16
+[08-Apr-2018 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpsx9n.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpsx9n.php on line 16
+[08-Apr-2018 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpsvok.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpsvok.php on line 16
+[08-Apr-2018 21:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpuqxg.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpuqxg.php on line 16
+[08-Apr-2018 21:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpha4h.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpha4h.php on line 16
+[08-Apr-2018 21:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpkkh6.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpkkh6.php on line 16
+[08-Apr-2018 21:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpdvrv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpdvrv.php on line 16
+[09-Apr-2018 04:22:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 512
+[09-Apr-2018 04:22:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 512
+[09-Apr-2018 04:22:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 512
+[09-Apr-2018 04:22:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 512
+[09-Apr-2018 07:44:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 100655104 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 55
+[09-Apr-2018 07:44:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 100655104 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 55
+[09-Apr-2018 07:45:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 67100672 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 55
+[09-Apr-2018 07:49:29 UTC] PHP Fatal error:  Allowed memory size of 671006720 bytes exhausted (tried to allocate 400560128 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 55
+[09-Apr-2018 07:49:34 UTC] PHP Fatal error:  Allowed memory size of 671006720 bytes exhausted (tried to allocate 400560128 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 55
+[09-Apr-2018 09:01:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp4g31.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp4g31.php on line 16
+[09-Apr-2018 09:01:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpojuo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpojuo.php on line 16
+[09-Apr-2018 09:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzbpf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzbpf.php on line 16
+[09-Apr-2018 09:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp3vtf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp3vtf.php on line 16
+[10-Apr-2018 09:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp8rcx.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp8rcx.php on line 16
+[10-Apr-2018 09:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpgh5r.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpgh5r.php on line 16
+[10-Apr-2018 09:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpodnz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpodnz.php on line 16
+[10-Apr-2018 09:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpug4h.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpug4h.php on line 16
+[11-Apr-2018 09:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmxtq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmxtq.php on line 16
+[11-Apr-2018 09:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpycca.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpycca.php on line 16
+[11-Apr-2018 09:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzr6e.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzr6e.php on line 16
+[11-Apr-2018 09:22:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpjtzd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpjtzd.php on line 16
+[11-Apr-2018 12:40:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 211
+[11-Apr-2018 12:43:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81793024 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 211
+[11-Apr-2018 12:44:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81793024 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 211
+[11-Apr-2018 12:45:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 211
+[11-Apr-2018 12:45:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 211
+[11-Apr-2018 12:47:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 211
+[11-Apr-2018 12:49:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 215
+[12-Apr-2018 09:13:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbpfa.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbpfa.php on line 16
+[12-Apr-2018 09:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmtvw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmtvw.php on line 16
+[12-Apr-2018 09:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphre9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphre9.php on line 16
+[12-Apr-2018 09:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp8jfb.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp8jfb.php on line 16
+[12-Apr-2018 21:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzgqv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzgqv.php on line 16
+[12-Apr-2018 21:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp6cdl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp6cdl.php on line 16
+[12-Apr-2018 21:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpxuze.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpxuze.php on line 16
+[12-Apr-2018 21:01:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpowtz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpowtz.php on line 16
+[13-Apr-2018 06:49:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:09 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:26 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:50:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:24 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:33 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:35 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:52:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:52:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:52:28 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:52:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:52:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:52:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:19 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:55:35 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:56:27 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:56:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:56:31 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:56:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:58:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:58:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:58:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:58:55 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:59:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:59:03 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:59:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 06:59:35 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 07:00:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 07:00:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 07:00:43 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 07:01:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 07:11:21 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/composer/../symfony/polyfill-php70/bootstrap.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/vendor/composer/autoload_real.php on line 66
+[13-Apr-2018 07:11:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/composer/../symfony/polyfill-php70/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/vendor/composer/autoload_real.php on line 66
+[13-Apr-2018 07:40:01 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:40:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:23 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:44 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:46 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:48 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:49 UTC] PHP Warning:  require(/home/xu79rce8hj8b/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 07:42:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/xu79rce8hj8b/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/xu79rce8hj8b/public_html/index.php on line 25
+[13-Apr-2018 08:12:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 08:12:16 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 08:13:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 08:14:26 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 08:15:01 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Foundation/h in /home/xu79rce8hj8b/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[13-Apr-2018 09:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpluvz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpluvz.php on line 16
+[13-Apr-2018 09:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpfwjd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpfwjd.php on line 16
+[13-Apr-2018 09:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpuqeq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpuqeq.php on line 16
+[13-Apr-2018 09:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wprvbm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wprvbm.php on line 16
+[13-Apr-2018 21:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpvrfi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpvrfi.php on line 16
+[13-Apr-2018 21:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wprlv5.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wprlv5.php on line 16
+[13-Apr-2018 21:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbppd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbppd.php on line 16
+[13-Apr-2018 21:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpyqct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpyqct.php on line 16
+[14-Apr-2018 09:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbdsi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbdsi.php on line 16
+[14-Apr-2018 09:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpxoqy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpxoqy.php on line 16
+[14-Apr-2018 09:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wptxm0.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wptxm0.php on line 16
+[14-Apr-2018 09:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbfjk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbfjk.php on line 16
+[15-Apr-2018 09:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpasc9.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpasc9.php on line 16
+[15-Apr-2018 09:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpwjxe.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpwjxe.php on line 16
+[15-Apr-2018 09:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpowoc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpowoc.php on line 16
+[15-Apr-2018 09:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpyger.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpyger.php on line 16
+[16-Apr-2018 09:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpjeru.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpjeru.php on line 16
+[16-Apr-2018 09:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpxffj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpxffj.php on line 16
+[16-Apr-2018 09:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpwsql.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpwsql.php on line 16
+[16-Apr-2018 09:18:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpu3x3.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpu3x3.php on line 16
+[16-Apr-2018 21:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpz0di.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpz0di.php on line 16
+[16-Apr-2018 21:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpjiiq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpjiiq.php on line 16
+[16-Apr-2018 21:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpl17v.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpl17v.php on line 16
+[16-Apr-2018 21:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpeyf2.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpeyf2.php on line 16
+[17-Apr-2018 05:46:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Backend\Controller' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Backend/UserController.php on line 7
+[17-Apr-2018 05:46:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Backend\Controller' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Backend/UserController.php on line 7
+[17-Apr-2018 09:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpvztt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpvztt.php on line 16
+[17-Apr-2018 09:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wplwhw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wplwhw.php on line 16
+[17-Apr-2018 09:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphorr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphorr.php on line 16
+[17-Apr-2018 09:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpdray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpdray.php on line 16
+[17-Apr-2018 09:21:51 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:22:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:24:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:24:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:24:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:24:52 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:25:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:25:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:25:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:25:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[17-Apr-2018 09:25:34 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\HomeController::privacy() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/HomeController.php on line 423
+[18-Apr-2018 09:29:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpuqys.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpuqys.php on line 16
+[18-Apr-2018 09:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpohch.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpohch.php on line 16
+[18-Apr-2018 09:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphssa.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphssa.php on line 16
+[18-Apr-2018 09:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wplvko.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wplvko.php on line 16
+[19-Apr-2018 03:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpdjer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpdjer.php on line 16
+[19-Apr-2018 03:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpfgpf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpfgpf.php on line 16
+[19-Apr-2018 03:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpnwhw.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpnwhw.php on line 16
+[19-Apr-2018 03:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp8hvf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp8hvf.php on line 16
+[19-Apr-2018 09:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphcmk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphcmk.php on line 16
+[19-Apr-2018 09:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpuafj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpuafj.php on line 16
+[19-Apr-2018 09:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpnk3q.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpnk3q.php on line 16
+[19-Apr-2018 09:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpnfka.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpnfka.php on line 16
+[20-Apr-2018 08:11:15 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/xu79rce8hj8b/public_html/storage/framework/views/3f3e7c495390133601fba6fbdded830a48511de4.php on line 97
+[20-Apr-2018 08:11:18 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/xu79rce8hj8b/public_html/storage/framework/views/3f3e7c495390133601fba6fbdded830a48511de4.php on line 97
+[20-Apr-2018 09:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpz28n.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpz28n.php on line 16
+[20-Apr-2018 09:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmo0q.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmo0q.php on line 16
+[20-Apr-2018 09:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbfvo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbfvo.php on line 16
+[20-Apr-2018 09:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp7iy3.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp7iy3.php on line 16
+[21-Apr-2018 09:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpwwmr.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpwwmr.php on line 16
+[21-Apr-2018 09:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wprl4v.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wprl4v.php on line 16
+[21-Apr-2018 09:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpyonn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpyonn.php on line 16
+[21-Apr-2018 09:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzzrv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzzrv.php on line 16
+[21-Apr-2018 21:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp31qj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp31qj.php on line 16
+[21-Apr-2018 21:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpvueo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpvueo.php on line 16
+[21-Apr-2018 21:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpg9ce.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpg9ce.php on line 16
+[21-Apr-2018 21:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpoy2m.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpoy2m.php on line 16
+[22-Apr-2018 09:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpz5l4.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpz5l4.php on line 16
+[22-Apr-2018 09:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wphwxv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wphwxv.php on line 16
+[22-Apr-2018 09:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpiyat.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpiyat.php on line 16
+[22-Apr-2018 09:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpremq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpremq.php on line 16
+[23-Apr-2018 09:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp84bp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp84bp.php on line 16
+[23-Apr-2018 09:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpqbcn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpqbcn.php on line 16
+[23-Apr-2018 09:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp3vzm.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp3vzm.php on line 16
+[23-Apr-2018 09:29:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpwoxx.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpwoxx.php on line 16
+[24-Apr-2018 09:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wptkhv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wptkhv.php on line 16
+[24-Apr-2018 09:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpc9qz.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpc9qz.php on line 16
+[24-Apr-2018 09:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpygnd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpygnd.php on line 16
+[24-Apr-2018 09:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpe7oi.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpe7oi.php on line 16
+[24-Apr-2018 21:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wprsn8.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wprsn8.php on line 16
+[24-Apr-2018 21:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpb3y1.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpb3y1.php on line 16
+[24-Apr-2018 21:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpkp90.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpkp90.php on line 16
+[24-Apr-2018 21:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp1p9c.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp1p9c.php on line 16
+[25-Apr-2018 08:02:50 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Frontend\ResetsPasswords' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 29
+[25-Apr-2018 08:02:57 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Frontend\ResetsPasswords' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 29
+[25-Apr-2018 08:03:41 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Frontend\ResetsPasswords' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 29
+[25-Apr-2018 08:03:44 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Frontend\ResetsPasswords' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 29
+[25-Apr-2018 08:04:14 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Frontend\ResetsPasswords' not found in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 29
+[25-Apr-2018 09:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmuca.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmuca.php on line 16
+[25-Apr-2018 09:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpdpln.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpdpln.php on line 16
+[25-Apr-2018 09:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbbou.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbbou.php on line 16
+[25-Apr-2018 09:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpetlq.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpetlq.php on line 16
+[25-Apr-2018 11:00:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/LoginController.php on line 61
+[25-Apr-2018 11:01:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/LoginController.php on line 61
+[25-Apr-2018 12:19:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 80
+[25-Apr-2018 12:20:53 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 80
+[25-Apr-2018 12:20:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 80
+[25-Apr-2018 12:21:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 80
+[25-Apr-2018 12:22:48 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 80
+[25-Apr-2018 12:22:59 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 80
+[26-Apr-2018 06:37:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 145
+[26-Apr-2018 06:37:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 145
+[26-Apr-2018 06:37:25 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Frontend\ResetPasswordController::reset() in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/ResetPasswordController.php on line 145
+[26-Apr-2018 09:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpm9rl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpm9rl.php on line 16
+[26-Apr-2018 09:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpthus.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpthus.php on line 16
+[26-Apr-2018 09:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpj8co.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpj8co.php on line 16
+[26-Apr-2018 09:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmuyd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmuyd.php on line 16
+[26-Apr-2018 21:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpuwki.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpuwki.php on line 16
+[26-Apr-2018 21:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp3noy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp3noy.php on line 16
+[26-Apr-2018 21:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpumml.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpumml.php on line 16
+[26-Apr-2018 21:17:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpcziv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpcziv.php on line 16
+[27-Apr-2018 09:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpx2wl.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpx2wl.php on line 16
+[27-Apr-2018 09:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpmzfv.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpmzfv.php on line 16
+[27-Apr-2018 09:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpceps.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpceps.php on line 16
+[27-Apr-2018 09:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpx7ex.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpx7ex.php on line 16
+[28-Apr-2018 09:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpcji7.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpcji7.php on line 16
+[28-Apr-2018 09:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wposqp.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wposqp.php on line 16
+[28-Apr-2018 09:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpg06w.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpg06w.php on line 16
+[28-Apr-2018 09:19:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpat66.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpat66.php on line 16
+[28-Apr-2018 20:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpyw3a.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpyw3a.php on line 16
+[28-Apr-2018 20:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzull.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzull.php on line 16
+[28-Apr-2018 20:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpwi4a.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpwi4a.php on line 16
+[28-Apr-2018 20:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzpiu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzpiu.php on line 16
+[29-Apr-2018 08:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpzdpd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpzdpd.php on line 16
+[29-Apr-2018 08:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpijlc.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpijlc.php on line 16
+[29-Apr-2018 08:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpaxqy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpaxqy.php on line 16
+[29-Apr-2018 08:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wppxac.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wppxac.php on line 16
+[30-Apr-2018 08:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpwt2t.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpwt2t.php on line 16
+[30-Apr-2018 08:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp6lwh.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp6lwh.php on line 16
+[30-Apr-2018 08:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wppfzy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wppfzy.php on line 16
+[30-Apr-2018 08:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpbcpd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpbcpd.php on line 16
+[01-May-2018 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp0y2m.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp0y2m.php on line 16
+[01-May-2018 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wp79rn.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wp79rn.php on line 16
+[01-May-2018 09:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpnh2o.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpnh2o.php on line 16
+[01-May-2018 09:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpghbe.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpghbe.php on line 16
+[02-May-2018 07:40:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:40:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:40:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:40:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:40:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:41:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132124672 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:41:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81793024 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:41:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 81793024 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:42:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:42:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132124672 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:42:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65015808 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:43:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 07:43:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/xu79rce8hj8b/public_html/app/Http/Controllers/Frontend/PortfolioController.php on line 102
+[02-May-2018 09:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpdntf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpdntf.php on line 16
+[02-May-2018 09:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpw6t1.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpw6t1.php on line 16
+[02-May-2018 09:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpqpxj.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpqpxj.php on line 16
+[02-May-2018 09:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpcx3u.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpcx3u.php on line 16
+[03-May-2018 09:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpigob.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpigob.php on line 16
+[03-May-2018 09:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpha1h.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpha1h.php on line 16
+[03-May-2018 09:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpvfwd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpvfwd.php on line 16
+[03-May-2018 09:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_transient() in /home/xu79rce8hj8b/public_html/deleteme.wpo7i5.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xu79rce8hj8b/public_html/deleteme.wpo7i5.php on line 16

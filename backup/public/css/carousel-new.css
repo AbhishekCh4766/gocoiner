@@ -1,0 +1,317 @@
+#owl {
+	overflow: hidden;
+	z-index: 1;
+	position: relative;
+	padding-bottom: 0;
+	margin: 0 -8px;
+	visibility:hidden;
+	max-height:180px;
+}
+#owl.owl-loaded { visibility:visible; }
+#owl .owl-item{
+	position: relative;
+}
+
+.owl-wrapper-outer {
+	overflow: hidden;
+}
+
+.sortby {
+    margin-top: -2px;
+    text-align: center;
+    margin-bottom: 15px;
+    position: absolute;
+    left: 16px;
+}
+    span.price_unit {
+    height: 22px;
+    line-height: 22px;
+    margin-top: 1px;
+}
+.btc_price {
+    display: none;
+}
+/******/
+.onetenfirst { border-left: 1px solid rgba(0, 0, 0, 0.05); float: left;
+    width: 100%; }
+.oneten {
+
+}
+.oneten.linked:hover {
+	/* box-shadow: inset 1px 1px 14px rgba(0, 0, 0, 0.18); */
+	cursor: pointer;
+}
+.oneten .heatcss {
+    font-size: 9px;
+    text-align: center;
+	margin-top: 5px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.16);
+    color: #f7f7f7;
+    letter-spacing: .21px;
+    position: absolute;
+    line-height: 11px;
+    padding: 3px 4px;
+    margin-bottom: 18px;}
+.oneten hr {
+    border: 1px solid rgba(0, 0, 0, 0.02);
+    margin: 3px;
+}
+.oneten .heatcent {
+    
+}
+.currency_sign {
+	
+}
+.oneten a.favbtn {
+    position: absolute;
+    top: 4px;
+    right: 6px;
+	left:inherit; font-size: 150% !important;
+}
+.oneten span.exchange {
+    
+}
+.oneten .currency_sign {    
+	
+}
+.oneten .symb {
+	
+}
+
+.oneten .symb_ico {
+ 
+}
+.newssearch { clear:both; border:1px solid #f0f0f0; padding:10px; margin-bottom:20px;}
+a.barlinks {display: inline-table;
+    border-left: 1px solid #0397f7;
+    margin: -4px 0px 3px 0;
+    /*border-left: 1px solid #c1c1c1;*/
+    padding-left: 5px;
+        font-size: 11px;
+    border-bottom:1px solid #0397f7;
+    line-height: 10px;
+    background: #efefef;
+    padding: 10px 5px;
+	float: left;
+    text-align: center;
+	width:19.5%;
+}
+a.barlinks.first { border-left:0; /*padding-left:0; padding: 10px 11px;*/}
+a.barlinks.current, a.barlinks:hover {     color: #242f43; 
+    background: #fff;font-weight:bold;
+     border-bottom:1px solid #fff;
+}
+.owl-loaded { display:block !important; }
+.sidebar_heading { clear:both;  }
+.eventsList p {
+    margin:0;
+	padding:10px;
+	border-bottom:1px solid #f0f0f0;
+}
+.eventsList p:hover, .eventsList p.current {
+	background:#feffa5;  
+}
+.blog-post {box-shadow: none;}
+.blog-posts img { padding:5px 0; display:inherit; }
+.movertab { background: rgba(236, 236, 236, 0.55); 
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    padding: 4px;
+    cursor: pointer;
+    line-height: 23px;
+    font-size: 12px;
+    margin-top: 4px;
+    margin-right: -1px;
+    font-weight: 400;
+    border: 1px solid #548ffe;}
+.movertab.current, .movertab:hover {   
+        background: #fff;
+    color: #797979;}
+.chosen-container { width:100% !important; font-size: 11px;}
+.item .oneten:last-child { border-right:0; }
+@media only screen and (width: 1024px) {
+	table#currencies td {
+		font-size: 10.5px;
+	}
+	.homepage_box .nine, .homepage_box .row .nine {
+		width: 73%; padding: 0;
+	}
+	.homepage_box .three, .homepage_box .row .three {
+		width: 27%;
+	}
+	.homepage_box .seven, .homepage_box .row .seven {
+		width: 55.33333%;
+	}
+	.homepage_box .five, .homepage_box .row .five {
+		width: 44.66667%;
+	}
+}
+@media only screen and (max-width: 767px) {
+	#owl { max-height:280px; }
+	.item .oneten:nth-child(5) { border-right:0; }
+.oneten span.symb {
+    font-size: 12px !important;
+    line-height: 12px;
+    margin: 0px 0px 9px 0px;
+}
+}
+
+@media only screen and (max-width: 567px) {
+	.item .oneten:nth-child(6) { clear:both; }
+    .oneten .heatcent {font-size: 15px;}
+    .mobilehide {display:inherit;}
+.topnews {
+    display: none;
+}
+.oneten {    padding: 15px 1px 15px 0px;}
+h2 {margin-top:10px;}
+.oneten span.symb {
+    font-size: 9px !important;}
+}
+
+/**** Owl.Carousel.css ****/
+#owl,#owl2,#owl3{
+    z-index:1;
+    position:relative
+}
+#owl{
+    padding:0 12px;
+    text-align:left;
+     width: 1250px;
+     max-width:100%;
+     margin: 0 auto;
+}
+#owl2{
+    margin-bottom:0;
+    text-align:center;
+    padding:0
+}
+#owl3{
+    padding:0 25px;
+    padding-bottom:0;
+    margin-bottom:0
+}
+#owl .owl-item,#owl2 .owl-item,#owl3 .owl-item{
+    float:left
+}
+#owl .item{
+    position:relative;
+    padding:0
+}
+#owl2 .item{
+    padding:0 8px;
+     text-align:center
+}
+#owl3 .item{
+    padding:0 25px
+}
+#owl .item .tx,#owl2 .item .tx{
+    transition:.5s ease;
+    -o-transition:.5s ease;
+    -webkit-transition:.5s ease;
+    min-height:60px;
+    padding-right:5px
+}
+#owl .item a.btn,#owl2 .item a.btn{
+    margin-top:23px
+}
+.owl-wrapper-outer{
+    overflow:hidden
+}
+.owl-nav{
+    left:0;
+    margin-top:-13px;
+    top:50%;
+    width:100%;
+    z-index:999;
+    position:absolute
+}
+#owl .owl-prev,#owl .owl-next{
+    width:14px;
+    height:25px;
+    cursor:pointer;
+    display:block;
+    overflow:hidden;
+    position:absolute;
+    text-indent:-999px;
+   /*  background-image:url(https://eveningstar.io/wp-content/themes/eveningstar/images/test_arrows.png) */ 
+ /*   background:url('../images/main-arrow.png')no-repeat; */
+ background:url('../images/arrow-img-new.png')no-repeat;
+}
+#owl .owl-prev{
+    left:0px;
+    background-position:left
+}
+#owl .owl-next{
+    right:0;
+    background-position:right
+}
+.owl-buttons{
+    width:100%;
+    position:absolute;
+    top:50%
+}
+#owl2 .owl-buttons{
+    float:right
+}
+.owl-carousel .owl-wrapper{
+    display:block;
+    position:relative;
+    -webkit-transform:translate3d(0px,0px,0px);
+    -webkit-perspective:1000
+}
+#owl .owl-controls{
+    padding-top:0
+}
+.owl-dots{
+    padding-top:0;
+    bottom:0;
+    width:100%;
+    position:absolute;
+    text-align:center;
+    z-index:999!important
+}
+.owl-controls{
+    text-align:center
+}
+.owl-dot{
+    display:inline-block;
+    width:34px;
+    height:4px;
+    cursor:pointer;
+    background:#5a77a3
+}
+.owl-dot+.owl-dot{
+    margin-left:17px
+}
+.owl-dot:hover,.owl-dot.active{
+    background:#18aede
+}
+@keyframes fadeIn{
+    from{
+        opacity:0
+    }
+    to{
+        opacity:1
+    }
+}
+.fadeIn{
+    animation-name:fadeIn
+}
+@keyframes fadeOut{
+    from{
+        opacity:1
+    }
+    to{
+        opacity:0
+    }
+}
+.fadeOut{
+    animation-name:fadeOut;
+}
+
+#owl2 .owl-nav { top:0; }
+#owl2 .owl-prev,#owl2 .owl-next{width:20px;height:36px;cursor:pointer;display:block;overflow:hidden;position:absolute;text-indent:-999px;background-image:url(images/test_arrows.png)}#owl2 .owl-prev{display:none;left:-70px;background-position:left}#owl2 .owl-next{right:-70px;background-position:right}
+.owl-stage-outer { overflow:hidden; }
